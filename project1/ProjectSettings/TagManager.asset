@@ -4,18 +4,15 @@
 TagManager:
   serializedVersion: 2
   tags:
-  - GameMaster
-  - road
-  - terminal
-  - files
+  - DoorLabQ
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - Interactable
   - Water
   - UI
-  - 
+  - Buildings
   - 
   - 
   - 
